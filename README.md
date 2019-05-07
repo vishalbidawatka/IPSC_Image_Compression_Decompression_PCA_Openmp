@@ -6,7 +6,8 @@ https://drive.google.com/open?id=1r8g20jgtmGH6lZ5gfF7ZoxLDrLTxok-s
 - Steps to be followed for parallel code :
 
 1. Download 0.txt or 8.txt from the given link.
-2. Compile and run parallel_pca ( The number of threads can be changed as the global parameter of the file )
+2. Compile parallel_pca as : g++ -std=c++14 -fopenmp Parallel_pca.cpp -o svd 
+3. run parallel_pca as ./svd 784 784
 
 - Steps to followed for serial code : 
 
