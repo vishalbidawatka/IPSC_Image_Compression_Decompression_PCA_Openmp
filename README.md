@@ -20,7 +20,7 @@ https://drive.google.com/open?id=1r8g20jgtmGH6lZ5gfF7ZoxLDrLTxok-s
 
 1. Simply compile and run the serial_pca in the same way as parallel skipping the NUM_THREAD argument.
 
-## Alternatively , you can run "run.sh" to see the results of both serial and parallel in output.txt
+### Alternatively , you can directly run only the "run.sh" to see the results of both serial and parallel in output.txt
 
 
 - The ouput after running any of these files is generated into reconstructed_matrix.txt.
