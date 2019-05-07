@@ -9,11 +9,7 @@
 using namespace std;
 
 int num = 32;
-template <typename T>
-double sgn(T val)
-{
-        return (val > T(0)) - (val < T(0));
-}
+
 
 void print_array(int *I1, int *I2, int rows, int columns)
 {
@@ -132,6 +128,11 @@ pair<double, double> schur(vector<vector<double>>& A, int p, int q)
     }
 
     return cs ;
+}
+template <typename T>
+double sgn(T val)
+{
+        return (val > T(0)) - (val < T(0));
 }
 
 void parallel_svd(int rows, int columns, vector<vector<double>> &A, vector<vector<double>> &U, vector<double> &S, vector<vector<double>> &V)
