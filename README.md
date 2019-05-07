@@ -7,7 +7,10 @@ https://drive.google.com/open?id=1r8g20jgtmGH6lZ5gfF7ZoxLDrLTxok-s
 
 1. Download 0.txt or 8.txt from the given link.
 2. Compile parallel_pca as : g++ -std=c++14 -fopenmp Parallel_pca.cpp -o svd 
-3. run parallel_pca as ./svd 784 784
+3. run parallel_pca as ./svd [rows] [cols] [NUM_THREADS] [FILENAME_of_datamatrix] [Percentage_to_compress] 
+
+- Example of datamatrix 8.txt with 4 threads and 90% compression
+![Original Image ](https://github.com/vishalbidawatka/IPSC_Image_Compression_Decompression_PCA/blob/master/reresultimagezero/screenshot.png)
 
 - Steps to followed for serial code : 
 
