@@ -1,4 +1,4 @@
-# IPSC_Image_Compression_Decompression_PCA_Openmp
+# IPSC_Image_Compression_Decompression_PCA
 
 - Link for downloading data :-
 https://drive.google.com/open?id=1r8g20jgtmGH6lZ5gfF7ZoxLDrLTxok-s
