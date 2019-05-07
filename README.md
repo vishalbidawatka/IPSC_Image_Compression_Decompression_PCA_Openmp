@@ -15,3 +15,6 @@ Steps to followed for serial code :
 
 The ouput after running any of these files is generated into reconstructed_matrix.txt.
 Open python preprocessing jupyter notebook and run the cell generating output from given file.
+
+
+![Original image](https://github.com/vishalbidawatka/IPSC_Image_Compression_Decompression_PCA/blob/master/reresultimagezero/exact_8.png)
