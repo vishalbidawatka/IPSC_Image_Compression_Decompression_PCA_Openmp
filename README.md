@@ -1,4 +1,10 @@
 # IPSC_Image_Compression_Decompression_PCA
+## Team Number : 5
+Members :
+Vishal Bidawatka (2018201004)
+Kshitij Paliwal (2018201063)
+Sandeep Kumar Gupta (2018201076)
+
 
 - Link for downloading data :-
 https://drive.google.com/open?id=1r8g20jgtmGH6lZ5gfF7ZoxLDrLTxok-s
